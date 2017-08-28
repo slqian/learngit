@@ -7,3 +7,5 @@ Git has a mutable index called stage.
 I'm Creating a new brach.
 
 again,i write the file
+
+there is a merge
